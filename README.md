@@ -45,7 +45,7 @@ Một ứng dụng ghi chú đơn giản được xây dựng bằng Flutter v�
 
 ### **1. Clone repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/bichle04/notes-app-flutter.git
 cd note_app
 ```
 
@@ -91,4 +91,5 @@ flutter run
 # r - Hot reload
 # R - Hot restart  
 # q - Quit
+
 ```
